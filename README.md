@@ -10,7 +10,7 @@ Eleventy plugin which compiles sass for [Fluid Project](https://fluidproject.org
 ## Requirements
 
 - Node >= 20
-- Eleventy >= 3.0.0
+- Eleventy >= 3.0.0-beta.1
 
 ## Installation
 
