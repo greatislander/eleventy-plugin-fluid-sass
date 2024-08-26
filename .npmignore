@@ -1,0 +1,15 @@
+.github
+.husky
+_site
+coverage
+fixtures
+test
+.commitlintrc.json
+.editorconfig
+.eleventyignore
+.eslintrc.json
+.fluidlintallrc.json
+.gitignore
+.npmignore
+eleventy.config.js
+package-lock.json
