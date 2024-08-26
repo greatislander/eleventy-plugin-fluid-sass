@@ -2,8 +2,8 @@
 
 [![License: BSD 3-Clause](https://badgen.net/github/license/fluid-project/eleventy-plugin-fluid-sass/)](https://github.com/fluid-project/eleventy-plugin-fluid-sass/blob/main/LICENSE.md)
 [![Latest Release](https://badgen.net/github/release/fluid-project/eleventy-plugin-fluid-sass/)](https://github.com/fluid-project/eleventy-plugin-fluid-sass/releases/latest/)
-[![NPM Package](https://badgen.net/npm/v/eleventy-plugin-fluid)](http://npmjs.com/package/eleventy-plugin-fluid)
-[![codecov](https://codecov.io/gh/fluid-project/eleventy-plugin-fluid-sass/branch/main/graph/badge.svg?token=ZF3OHK4MUC)](https://codecov.io/gh/fluid-project/eleventy-plugin-fluid)
+[![NPM Package](https://badgen.net/npm/v/eleventy-plugin-fluid-sass)](http://npmjs.com/package/eleventy-plugin-fluid-sass)
+[![codecov](https://codecov.io/gh/fluid-project/eleventy-plugin-fluid-sass/graph/badge.svg?token=EPFgECqgjt)](https://codecov.io/gh/fluid-project/eleventy-plugin-fluid-sass)
 
 Eleventy plugin which compiles sass for [Fluid Project](https://fluidproject.org) websites.
 
