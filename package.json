@@ -1,6 +1,6 @@
 {
   "name": "eleventy-plugin-fluid-sass",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Eleventy plugin which compiles sass for Fluid Project websites.",
   "publishConfig": {
     "access": "public"
